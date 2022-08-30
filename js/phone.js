@@ -174,4 +174,4 @@ const displayPhoneDetails = (phone) =>{
     `
     table.appendChild(tbody);
 }
-loadPhones('samsung',20);
+loadPhones('apple',20);
